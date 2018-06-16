@@ -4,5 +4,7 @@ aaa bbb ccc
 
 
 ###Narzędzia testerskie
-- JIRA
+####- JIRA
+- APPIUM
+- SELENIUM WEBDRIVER
 - DOCKER...
